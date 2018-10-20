@@ -1,5 +1,5 @@
 _repo: Short-Stories-for-English-Courses_5403
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -24,6 +24,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Short stories, American'
 - !lcc 'PS'
+- GITenberg
 tableOfContents: 'Preface -- Introduction: Requirements of the short story. How this
   book may be used -- The first Christmas-tree / Henry Van Dyke -- A French tar-baby
   / J.C. Harris -- Sonny''s christenin'' / Ruth M. Stuart -- Christmas night with
